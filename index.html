@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hoàng Nam — AI & Basketball Portfolio</title>
+    <meta name="description" content="Sinh viên K70 CNTT UET — AI Engineering & Basketball Portfolio. MSSV: 25020279." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- Modern high-end display and body typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,600;0,700;0,800;1,700&family=Be+Vietnam+Pro:wght@300;400;500;600;700&family=Syne:wght@700;800&family=Playfair+Display:ital,wght@1,400;1,700&family=Share+Tech+Mono&display=swap" rel="stylesheet" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <!-- App entry mountpoint -->
+    <div id="app"></div>
+
+    <!-- SVG Brushed Metal / Scratched Screen Filter -->
+    <svg style="position: absolute; width: 0; height: 0; pointer-events: none;">
+      <filter id="brushed-metal-filter">
+        <feTurbulence type="fractalNoise" baseFrequency="0.04 0.95" numOctaves="3" result="noise" />
+        <feColorMatrix type="matrix" values="
+          0 0 0 0 0
+          0 0 0 0 0
+          0 0 0 0 0
+          0 0 0 0.065 0
+        " />
+      </filter>
+    </svg>
+
+    <!-- Brushed metal overlay -->
+    <div class="brushed-overlay"></div>
+    
+    <!-- Custom Basketball Cursor Trail -->
+    <div class="basketball-cursor" id="custom-cursor">
+      <div class="ball-inner">
+        <!-- Basketball seam lines -->
+        <div class="seam horizontal"></div>
+        <div class="seam vertical"></div>
+        <div class="seam curve-left"></div>
+        <div class="seam curve-right"></div>
+      </div>
+      <!-- Hover image container inside or behind the cursor -->
+      <img class="hover-player-img" id="cursor-player-img" src="" alt="NBA Player" />
+    </div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

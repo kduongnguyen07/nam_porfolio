@@ -1,0 +1,1286 @@
+[
+  {
+    "id": 1,
+    "number": "01",
+    "title": "Digital Workspace Setup & Git Workflow",
+    "shortDesc": "Thiết lập môi trường làm việc số cá nhân, cấu hình SSH Keys, quản lý mã nguồn qua Git và đẩy dự án lên GitHub phục vụ quá trình deploy liên tục (CI/CD).",
+    "hoverImg": "/lebron.png",
+    "elements": [],
+    "images": [
+      "/images/lesson1/image1.png",
+      "/images/lesson1/image2.png",
+      "/images/lesson1/image3.png",
+      "/images/lesson1/image4.png",
+      "/images/lesson1/image5.png",
+      "/images/lesson1/image6.png",
+      "/images/lesson1/image7.png",
+      "/images/lesson1/image8.png",
+      "/images/lesson1/image9.png",
+      "/images/lesson1/image10.png",
+      "/images/lesson1/image11.png",
+      "/images/lesson1/image12.png",
+      "/images/lesson1/image13.png",
+      "/images/lesson1/image14.png"
+    ]
+  },
+  {
+    "id": 2,
+    "number": "02",
+    "title": "Academic Information Search & Evaluation",
+    "shortDesc": "Quy trình tìm kiếm đa tầng và đánh giá độ tin cậy của tài liệu khoa học học thuật về Trí tuệ nhân tạo (AI) trong giáo dục đại học.",
+    "hoverImg": "/curry.png",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "BÁO CÁO: TÌM KIẾM VÀ ĐÁNH GIÁ THÔNG TIN HỌC THUẬT"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chủ đề: Tác động của Trí tuệ nhân tạo (AI) đến hiệu quả học tập trực tuyến của sinh viên đại học trong kỷ nguyên số."
+      },
+      {
+        "type": "paragraph",
+        "text": "I. Mở đầu"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trong bối cảnh chuyển đổi số giáo dục, AI không còn là khái niệm xa lạ mà đã trở thành công cụ trực tiếp thay đổi cách thức tiếp nhận kiến thức. Báo cáo này tập trung tìm kiếm các nguồn tài liệu tin cậy để làm rõ hai khía cạnh: (1) Khả năng cá nhân hóa học tập của AI và (2) Những thách thức về tính chính trực học thuật. Việc thực hiện bài tập này giúp tôi hình thành kỹ năng sàng lọc thông tin giữa \"biển\" dữ liệu số hiện nay."
+      },
+      {
+        "type": "paragraph",
+        "text": "II. Quy trình tìm kiếm và Thu thập thông tin"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tôi đã thực hiện tìm kiếm đa tầng để đảm bảo tính khách quan và chiều sâu cho đề tài:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chiến lược từ khóa: Sử dụng từ khóa tiếng Việt (\"AI trong giáo dục đại học\") và tiếng Anh (\"Impact of Generative AI on higher education performance\") để tiếp cận nguồn tri thức toàn cầu."
+      },
+      {
+        "type": "paragraph",
+        "text": "Các kênh khai thác:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cơ sở dữ liệu học thuật: Google Scholar và hệ thống thư viện nội bộ."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tạp chí chuyên ngành: IEEE Transactions on Learning Technologies, Elsevier."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tổ chức quốc tế: Báo cáo khung năng lực AI của UNESCO."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nguồn bổ trợ: Các bài phân tích chuyên sâu trên các diễn đàn công nghệ uy tín."
+      },
+      {
+        "type": "paragraph",
+        "text": "III. Bảng tổng hợp và Đánh giá độ tin cậy của các nguồn thông tin"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "STT",
+            "Tên tài liệu / Tác giả",
+            "Loại nguồn",
+            "Điểm tin cậy",
+            "Phân tích chi tiết (Hệ thống & Sâu sắc)"
+          ],
+          [
+            "1",
+            "AI and the Future of Learning (UNESCO, 2024)",
+            "Báo cáo tổ chức",
+            "5/5",
+            "Ưu: Tính cập nhật cực cao, được thẩm định bởi các chuyên gia hàng đầu thế giới. Cung cấp cái nhìn đa chiều về đạo đức. Nhược: Mang tính định hướng vĩ mô, thiếu các hướng dẫn kỹ thuật chi tiết cho từng môn học cụ thể."
+          ],
+          [
+            "2",
+            "Personalized Learning Paths via AI (Tạp chí IEEE)",
+            "Bài báo khoa học",
+            "5/5",
+            "Ưu: Sử dụng phương pháp nghiên cứu thực nghiệm (Quantitative Research) với cỡ mẫu 5000 sinh viên, độ tin cậy thống kê cao. Nhược: Ngôn ngữ chuyên ngành phức tạp, khó tiếp cận với người không có nền tảng kỹ thuật."
+          ],
+          [
+            "3",
+            "Artificial Intelligence in Education (Sách chuyên khảo, Nhà XB Springer)",
+            "Sách",
+            "5/5",
+            "Ưu: Hệ thống hóa lý thuyết bài bản, là nền tảng vững chắc để xây dựng khung lý luận. Nhược: Quy trình xuất bản sách dài nên một số công cụ AI mới nhất (như Sora) chưa được cập nhật kịp."
+          ],
+          [
+            "4",
+            "Thực trạng dùng ChatGPT của sinh viên VN (Báo điện tử uy tín)",
+            "Nguồn mở Internet",
+            "3/5",
+            "Ưu: Phản ánh đúng thực tế thực trạng tại Việt Nam, số liệu gần gũi. Nhược: Phương pháp lấy mẫu qua khảo sát online thường có sai số, thiếu sự kiểm chứng học thuật khắt khe."
+          ],
+          [
+            "5",
+            "Generative AI tools review (Blog cá nhân chuyên gia công nghệ)",
+            "Nguồn mở Internet",
+            "2/5",
+            "Ưu: Thủ thuật sử dụng thực tế, sinh động. Nhược: Mang nặng tính chủ quan, có thể chứa yếu tố quảng cáo cho các công cụ phần mềm."
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "6",
+            "The Role of AI in Personalized Learning / Chen, L. et al. (2024)",
+            "Bài báo khoa học",
+            "5/5",
+            "Ưu: Công bố trên tạp chí Computers & Education (Q1). Có dữ liệu so sánh đối chứng giữa nhóm dùng AI và không dùng AI. Nhược: Tập trung nhiều vào thuật toán học máy, người đọc không có chuyên môn kỹ thuật sẽ khó nắm bắt."
+          ],
+          [
+            "7",
+            "Academic Integrity in the Age of ChatGPT / Roberts, P. (2023)",
+            "Bài báo khoa học",
+            "4/5",
+            "Ưu: Phân tích sâu về đạo đức và vấn đề đạo văn. Cung cấp các chiến lược cho giảng viên để thay đổi cách ra đề thi. Nhược: Số liệu khảo sát chủ yếu ở các nước phát triển, chưa phản ánh hết đặc thù văn hóa học đường tại Á Đông."
+          ],
+          [
+            "8",
+            "Educational Psychology: A Digital Perspective / Nhà XB McGraw-Hill",
+            "Sách chuyên khảo",
+            "5/5",
+            "Ưu: Được viết bởi các giáo sư đầu ngành. Cung cấp nền tảng tâm lý học về cách con người tương tác với máy tính. Nhược: Giá thành tiếp cận bản cứng cao, bản mềm thường bị giới hạn quyền truy cập."
+          ],
+          [
+            "9",
+            "Ethics of Artificial Intelligence / Tạp chí Nature Machine Intelligence",
+            "Bài báo khoa học",
+            "5/5",
+            "Ưu: Nguồn cực kỳ uy tín. Bài viết trải qua quy trình phản biện đồng cấp (Double-blind peer review) khắt khe nhất. Nhược: Phạm vi nghiên cứu rất rộng, đôi khi xa rời thực tế lớp học cụ thể của sinh viên."
+          ],
+          [
+            "10",
+            "AI-Enhanced Collaborative Learning / Wang, Y. (2025)",
+            "Bài báo khoa học",
+            "4/5",
+            "Ưu: Nghiên cứu về cách AI hỗ trợ làm việc nhóm (teamwork) trực tuyến – một khía cạnh rất mới. Nhược: Thời gian theo dõi nghiên cứu ngắn (6 tháng), cần thêm dữ liệu dài hạn để khẳng định tính hiệu quả."
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "IV. Phân tích kết quả và Bài học rút ra"
+      },
+      {
+        "type": "paragraph",
+        "text": "Về nội dung: Các nguồn học thuật (Q1, Q2) thường tập trung vào thuật toán và tác động tâm lý bền vững, trong khi nguồn Internet tập trung vào sự tiện lợi nhất thời."
+      },
+      {
+        "type": "paragraph",
+        "text": "Về kỹ năng đánh giá: Để đạt được độ tin cậy cao, tôi không chỉ nhìn vào tên tác giả mà phải kiểm tra H-index (chỉ số ảnh hưởng) của họ và xem xét liệu nghiên cứu đó có được Peer-review (phê bình đồng cấp) hay chưa ->Kết luận: Một bài nghiên cứu chất lượng phải là sự kết hợp giữa lý thuyết nền tảng từ sách, tính thời sự từ báo chí và độ xác thực từ các bài báo khoa học."
+      },
+      {
+        "type": "paragraph",
+        "text": "V. Danh mục tài liệu tham khảo (Định dạng Harvard)"
+      },
+      {
+        "type": "paragraph",
+        "text": "UNESCO (2024). AI and the future of learning: Policy guidelines for digital education. Paris: UNESCO Publishing."
+      },
+      {
+        "type": "paragraph",
+        "text": "IEEE (2023). 'Personalized Learning Paths via AI: A Quantitative Study on Student Performance', IEEE Transactions on Learning Technologies, 16(3), pp. 215-230."
+      },
+      {
+        "type": "paragraph",
+        "text": "Springer (2022). Artificial Intelligence in Education: Foundations and Applications. Cham: Springer International Publishing."
+      },
+      {
+        "type": "paragraph",
+        "text": "VnExpress (2024). 'Thực trạng dùng ChatGPT của sinh viên Việt Nam: Cơ hội và thách thức', VnExpress, ngày 15 tháng 3."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nguyen, A. (2024). 'Generative AI tools review for students', TechInsights Blog, ngày 10 tháng 2."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chen, L., et al. (2024). 'The Role of AI in Personalized Learning', Computers & Education, 210, p. 104921."
+      },
+      {
+        "type": "paragraph",
+        "text": "Roberts, P. (2023). 'Academic Integrity in the Age of ChatGPT', Higher Education Research & Development, 42(5), pp. 88-103."
+      },
+      {
+        "type": "paragraph",
+        "text": "McGraw-Hill (2022). Educational Psychology: A Digital Perspective. 5th edn. New York: McGraw-Hill Education."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nature Machine Intelligence (2023). 'Ethics of Artificial Intelligence', Nature Machine Intelligence, 5(1), pp. 1-3."
+      },
+      {
+        "type": "paragraph",
+        "text": "Wang, Y. (2025). 'AI-Enhanced Collaborative Learning in Virtual Classrooms', International Journal of Educational Technology in Higher Education, 22(1), pp. 15-30."
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": 3,
+    "number": "03",
+    "title": "Prompt Engineering & Optimization (C.A.R.E)",
+    "shortDesc": "Phương pháp thiết kế và tối ưu hóa Prompt nâng cao ứng dụng vào các môn chuyên ngành (Toán rời rạc, Hệ điều hành) tại UET.",
+    "hoverImg": "/durant.png",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "BÁO CÁO: TỐI ƯU HÓA PROMPT TRONG HỌC TẬP ĐẠI HỌC"
+      },
+      {
+        "type": "paragraph",
+        "text": "I. Phân tích tác vụ học tập chọn lọc"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trong bối cảnh học tập các môn chuyên ngành tại UET (như Toán rời rạc, Hệ điều hành), việc sử dụng AI yêu cầu độ chính xác và khả năng logic cao. Tôi chọn 3 tác vụ sau:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tóm tắt tài liệu học thuật: Tối giản hóa các bài báo khoa học hoặc chương sách giáo khoa dài."
+      },
+      {
+        "type": "paragraph",
+        "text": "Giải thích khái niệm phức tạp: Làm rõ các định lý toán học hoặc kiến trúc máy tính bằng ngôn ngữ dễ hiểu."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tạo bộ câu hỏi ôn tập: Hệ thống hóa kiến thức để chuẩn bị cho kỳ thi cuối kỳ."
+      },
+      {
+        "type": "paragraph",
+        "text": "II. Xây dựng và Thử nghiệm các phiên bản Prompt"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tác vụ 1: Tóm tắt bài đọc (Tài liệu về Thuật toán QR Decomposition)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prompt Cơ bản: \"Tóm tắt bài đọc sau cho tôi\""
+      },
+      {
+        "type": "paragraph",
+        "text": "Prompt Cải tiến: \"Hãy đóng vai một trợ lý học tập, hãy tóm tắt tài liệu dưới đây thành 5 ý chính. Đảm bảo giữ lại các thuật ngữ kỹ thuật quan trọng.\""
+      },
+      {
+        "type": "paragraph",
+        "text": "Prompt Nâng cao (Chain-of-Thought + Role): > \"Bạn là một Giáo sư Khoa học Máy tính tại UET. Nhiệm vụ của bạn là đọc tài liệu về [Tên tài liệu] và thực hiện các bước sau:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trích xuất các định nghĩa cốt lõi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Giải thích quy trình thực hiện theo từng bước (Step-by-step)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nêu ý nghĩa của thuật toán này trong thực tế.Sử dụng định dạng Markdown để trình bày rõ ràng.\""
+      },
+      {
+        "type": "paragraph",
+        "text": "Tác vụ 2: Giải thích khái niệm (Khái niệm \"Paging\" trong Hệ điều hành)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prompt Cơ bản: \"Paging là gì?\""
+      },
+      {
+        "type": "paragraph",
+        "text": "Prompt Cải tiến: \"Giải thích khái niệm Paging trong Hệ điều hành một cách ngắn gọn và cho ví dụ minh họa.\""
+      },
+      {
+        "type": "paragraph",
+        "text": "Prompt Nâng cao (Few-shot + Analogy):\"Hãy giải thích khái niệm 'Paging' cho một sinh viên năm nhất."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sử dụng phương pháp ẩn dụ (Ví dụ: Giống như cách sắp xếp sách trong thư viện)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cấu trúc câu trả lời: Định nghĩa -> Cơ chế hoạt động -> Tại sao nó quan trọng."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ví dụ tương tự: Cách giải thích bộ nhớ Cache giống như ngăn kéo bàn làm việc.\""
+      },
+      {
+        "type": "paragraph",
+        "text": "Tác vụ 3: Tạo bộ câu hỏi ôn tập (Chủ đề: Cấu trúc dữ liệu Tree)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prompt Cơ bản: \"Tạo 5 câu hỏi trắc nghiệm về cây (Tree).\""
+      },
+      {
+        "type": "paragraph",
+        "text": "Prompt Cải tiến: \"Tạo 10 câu hỏi trắc nghiệm về Cây nhị phân tìm kiếm (BST), kèm theo đáp án và giải thích.\""
+      },
+      {
+        "type": "paragraph",
+        "text": "Prompt Nâng cao (Constraint + Style):\"Bạn là chuyên gia ra đề thi tại UET. Hãy tạo một bộ đề ôn tập gồm 5 câu trắc nghiệm và 2 câu tự luận về 'Balanced Trees'.Yêu cầu:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Độ khó: 40% thông hiểu, 60% vận dụng cao."
+      },
+      {
+        "type": "paragraph",
+        "text": "Các câu hỏi tự luận phải yêu cầu vẽ hình hoặc viết mã giả (Pseudocode)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cung cấp lời giải chi tiết và các lỗi sai thường gặp của sinh viên ở mỗi câu.\""
+      },
+      {
+        "type": "paragraph",
+        "text": "III. Bảng so sánh kết quả"
+      },
+      {
+        "type": "paragraph",
+        "text": "VD: Ảnh chụp minh hoạ tác vụ 2"
+      },
+      {
+        "type": "paragraph",
+        "text": "Promt cơ bản                                   Promt cải tiến                         Promt nâng cao"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Tác vụ",
+            "Prompt Cơ bản",
+            "Prompt Nâng cao",
+            "Đánh giá hiệu quả"
+          ],
+          [
+            "Tóm tắt",
+            "Kết quả ngắn, đôi khi bỏ sót thông tin quan trọng.",
+            "Thông tin có cấu trúc, giữ được tính chuyên môn cao.",
+            "Tăng 80% độ hữu dụng."
+          ],
+          [
+            "Giải thích",
+            "Định nghĩa khô khan, khó hình dung.",
+            "Dễ hiểu nhờ ẩn dụ, giúp ghi nhớ lâu hơn.",
+            "Phù hợp để tự học."
+          ],
+          [
+            "Tạo câu hỏi",
+            "Câu hỏi quá dễ, không sát đề thi thật.",
+            "Câu hỏi có chiều sâu, bao quát được các trường hợp đặc biệt.",
+            "Rất tốt để luyện thi."
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "."
+      },
+      {
+        "type": "paragraph",
+        "text": "IV. Phân tích lý do hiệu quả (Tư duy phản biện)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Các Prompt nâng cao đạt kết quả xuất sắc hơn nhờ vào 3 yếu tố cốt lõi:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Thiết lập vai trò (Role-play): Khi định hình AI là \"Giáo sư\" hoặc \"Chuyên gia\", AI sẽ sử dụng bộ từ vựng chuyên ngành và cấu trúc lập luận logic hơn."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chia nhỏ quy trình (Chain-of-Thought): Yêu cầu AI suy nghĩ theo từng bước giúp tránh việc bỏ sót dữ liệu và giảm thiểu tình trạng \"ảo giác\" (hallucination)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ràng buộc cụ thể (Constraints): Việc giới hạn độ khó, định dạng (Markdown) và đối tượng mục tiêu giúp kết quả trả về sát với nhu cầu thực tế của sinh viên UET."
+      },
+      {
+        "type": "paragraph",
+        "text": "V. Tổng hợp nguyên tắc viết Prompt hiệu quả"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dựa trên thử nghiệm, tôi rút ra bộ nguyên tắc C.A.R.E:"
+      },
+      {
+        "type": "paragraph",
+        "text": "C - Context (Bối cảnh): Luôn cung cấp vai trò và mục đích của yêu cầu."
+      },
+      {
+        "type": "paragraph",
+        "text": "A - Action (Hành động): Sử dụng động từ mạnh (Phân tích, So sánh, Trích xuất)."
+      },
+      {
+        "type": "paragraph",
+        "text": "R - Result (Kết quả): Quy định định dạng đầu ra (Bảng, Danh sách, Mã code)."
+      },
+      {
+        "type": "paragraph",
+        "text": "E - Example (Ví dụ): Cung cấp 1-2 mẫu (Few-shot) để AI bắt chước tông giọng hoặc cấu trúc."
+      }
+    ],
+    "images": [
+      "/images/lesson3/image2.png",
+      "/images/lesson3/image3.png",
+      "/images/lesson3/image1.png"
+    ]
+  },
+  {
+    "id": 4,
+    "number": "04",
+    "title": "Group Collaboration & Project Management",
+    "shortDesc": "Vận hành dự án nhóm công nghệ thông tin trong 1 tuần bằng cách đồng bộ hóa Trello, Google Workspace và Google Meet.",
+    "hoverImg": "/kobe.png",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "BÁO CÁO SỬ DỤNG CÔNG CỤ HỢP TÁC TRỰC TUYẾN CHO DỰ ÁN NHÓM"
+      },
+      {
+        "type": "paragraph",
+        "text": "I. Bối cảnh dự án và Vai trò cá nhân"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tên dự án: Ứng dụng cơ bản của AI trong lĩnh vực chuyên ngành"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mục tiêu nhóm: Hoàn thành dự án trong 1 tuần."
+      },
+      {
+        "type": "paragraph",
+        "text": "Vai trò cá nhân của bạn: Thành viên"
+      },
+      {
+        "type": "paragraph",
+        "text": "Là một thành viên trong nhóm, em có nhiệm vụ thực hiện phần nội dung được phân công, đồng thời phối hợp với các thành viên khác để đảm bảo tiến độ chung. Ngoài ra, em cũng chủ động tham gia đóng góp ý kiến, chỉnh sửa nội dung và hỗ trợ nhóm khi cần thiết."
+      },
+      {
+        "type": "paragraph",
+        "text": "II. Lựa chọn và Thiết lập công cụ"
+      },
+      {
+        "type": "paragraph",
+        "text": "Công cụ quản lý dự án (Trello): Nơi chia việc, theo dõi tiến độ."
+      },
+      {
+        "type": "paragraph",
+        "text": "Công cụ soạn thảo tài liệu cộng tác (Google Docs): Nơi cùng nhau viết nội dung, chỉnh sửa nội dung."
+      },
+      {
+        "type": "paragraph",
+        "text": "Công cụ lưu trữ và chia sẻ tệp (Google Drive): Kho chứa tài liệu, phân thư mục của các cá nhân rõ ràng để tránh mất file. Nhóm sẽ gắn link Google Drive vào Trello để mọi người up tài liệu lên."
+      },
+      {
+        "type": "paragraph",
+        "text": "Công cụ giao tiếp nhóm (Google Meet): Nơi tập hợp thành viên, chat nhanh, phổ biến nội dung."
+      },
+      {
+        "type": "paragraph",
+        "text": "III. Thực hiện nhiệm vụ cá nhân"
+      },
+      {
+        "type": "paragraph",
+        "text": "1. Tự quản lý danh sách nhiệm vụ được giao trên công cụ quản lý (Trên Trello):"
+      },
+      {
+        "type": "paragraph",
+        "text": "Em nhận nhiệm vụ từ nhóm và theo dõi tiến độ công việc của mình thông qua Trello. Em đã chủ động tạo các thẻ công việc của mình, đặt Deadline, thêm Checklist các bước nhỏ cần làm."
+      },
+      {
+        "type": "paragraph",
+        "text": "Em chủ động cập nhật trạng thái công việc trên Trello để trưởng nhóm và các thành viên khác theo dõi:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Đầu tuần: Chuyển các thẻ nhiệm vụ từ \"Cần làm\" sang \"Đang làm\"."
+      },
+      {
+        "type": "paragraph",
+        "text": "Giữa tuần: Cập nhật tiến độ 50%, đính kèm link bản nháp từ Google Drive vào thẻ Trello."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cuối tuần: Chuyển nhiệm vụ sang \"Hoàn thành\" sau khi được duyệt."
+      },
+      {
+        "type": "paragraph",
+        "text": "2. Lịch sử chỉnh sửa, đóng góp nội dung trực tiếp trên tài liệu cộng tác (Trên Google Docs):"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trong quá trình làm việc, em trực tiếp viết phần nội dung được giao trên Google Docs. Ngoài ra, em còn sử dụng tính năng “Đề xuất chỉnh sửa” để sửa lỗi và “Bình luận” để góp ý cho các phần nội dung của các thành viên khác."
+      },
+      {
+        "type": "paragraph",
+        "text": "Việc làm này giúp nội dung bài được hoàn thiện hơn và đảm bảo tính thống nhất."
+      },
+      {
+        "type": "paragraph",
+        "text": "3. Tương tác, thảo luận chủ động với các thành viên khác trên công cụ giao tiếp (Trên Google Meet):"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trong quá trình thực hiện dự án, nhóm em thường xuyên tổ chức các buổi họp trực tuyến thông qua video call để trao đổi và thống nhất nội dung. Em luôn tham gia đầy đủ các buổi họp và chủ động đóng góp ý kiến trong quá trình thảo luận."
+      },
+      {
+        "type": "paragraph",
+        "text": "Trong mỗi buổi call, em tích cực trình bày quan điểm cá nhân về phần nội dung được giao, đồng thời lắng nghe và phản hồi ý kiến của các thành viên khác để cùng đi đến phương án phù hợp nhất. Khi có vấn đề chưa rõ, em chủ động đặt câu hỏi ngay trong buổi họp để tránh hiểu sai yêu cầu."
+      },
+      {
+        "type": "paragraph",
+        "text": "Bên cạnh đó, em cũng tham gia vào việc góp ý chỉnh sửa nội dung, đề xuất cách trình bày slide và đưa ra các ý tưởng giúp bài làm rõ ràng, logic hơn. Việc trao đổi trực tiếp qua video call giúp nhóm tiết kiệm thời gian, giải quyết vấn đề nhanh chóng và tăng sự tương tác giữa các thành viên."
+      },
+      {
+        "type": "paragraph",
+        "text": "4. Tổ chức và lưu trữ các tệp tin cá nhân phụ trách một cách khoa học (Trên Google Drive):"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trong quá trình thực hiện dự án, em tham gia lưu trữ và quản lý tài liệu trên Google Drive theo cấu trúc thư mục chung của nhóm. Các tài liệu được phân chia theo từng thành viên, mỗi người có một thư mục riêng để tải lên phần nội dung mình phụ trách, giúp dễ dàng quản lý và tìm kiếm khi cần."
+      },
+      {
+        "type": "paragraph",
+        "text": "Em thực hiện việc đặt tên file rõ ràng, thống nhất theo nội dung để tránh nhầm lẫn và đảm bảo tính khoa học trong quá trình làm việc. Nhờ đó, các thành viên trong nhóm có thể truy cập và sử dụng tài liệu một cách thuận tiện."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ngoài ra, nhóm thống nhất sử dụng Google Drive làm nơi lưu trữ chính, và liên kết trực tiếp các file này vào Trello để tiện theo dõi và truy cập nhanh. Điều này giúp đảm bảo mọi người luôn sử dụng đúng phiên bản tài liệu mới nhất, tránh tình trạng trùng lặp hoặc sai lệch dữ liệu."
+      },
+      {
+        "type": "paragraph",
+        "text": "V. Phân tích hiệu quả của công cụ đối với công việc cá nhân"
+      },
+      {
+        "type": "paragraph",
+        "text": "Đối với một sinh viên năm nhất còn nhiều bỡ ngỡ với khối lượng bài vở ở bậc đại học, việc ứng dụng đồng bộ 4 công cụ (Trello, Google Docs, Google Drive và Zalo) không chỉ là thao tác kỹ thuật, mà thực sự đã thay đổi hoàn toàn tư duy và thói quen làm việc của em. Cụ thể, các công cụ này đã mang lại những bước tiến rõ rệt:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trello: Trước đây, em thường bị rối và hoang mang khi phải nhớ quá nhiều deadline cùng lúc. Trello đã giúp em trực quan hóa mọi thứ thành một bảng công việc tổng thể. Việc nhìn thấy rõ ràng các thẻ công việc di chuyển từ To-do sang Done không chỉ giúp em biết mình đang đứng ở đâu để tự sắp xếp thời gian, mà còn mang lại cảm giác hoàn thành rất tích cực. Thêm vào đó, em có thể âm thầm theo dõi tiến độ của các bạn trong nhóm qua hệ thống bảng biểu mà không cần phải nhắn tin đốc thúc liên tục, giúp tránh đi sự áp lực và gượng gạo không đáng có giữa các thành viên."
+      },
+      {
+        "type": "paragraph",
+        "text": "Google Docs: Thay vì cách làm cũ là mỗi người gõ một bản Word rồi gửi qua Zalo (dẫn đến tình trạng trôi tin nhắn và nhầm lẫn giữa vô số bản “Final 1”, “Final 2”), Google Docs cho phép em tương tác trực tiếp trên cùng một văn bản. Em có thể bôi đen một đoạn chưa hợp lý, tag tên bạn phụ trách và để lại bình luận (comment) ngay tại đó. Sự thay đổi này giúp giảm thiểu tối đa các bước giao tiếp dư thừa, biến việc làm việc nhóm từ “mạnh ai nấy làm rồi ghép lại” thành một quá trình cùng nhau đồng sáng tạo và sửa lỗi theo thời gian thực."
+      },
+      {
+        "type": "paragraph",
+        "text": "Google Drive: Mặc dù Drive là không gian lưu trữ chung của nhóm, nhưng nó lại mang lại lợi ích rất lớn cho tiến trình làm việc cá nhân của em. Việc nhóm sắp xếp cây thư mục khoa học (chia theo Tài liệu tham khảo, Bản nháp, Ảnh minh họa...) giúp em tiết kiệm rất nhiều thời gian tìm kiếm lại dữ liệu cũ mỗi khi cần đối chiếu nội dung. Em không còn phải lôi tin nhắn Zalo để tìm file bài làm của các bạn khác nhằm viết cho khớp ý, từ đó giúp em tập trung hoàn toàn vào việc nâng cao chất lượng nội dung mà mình phụ trách."
+      },
+      {
+        "type": "paragraph",
+        "text": "VI. Đánh giá và Rút kinh nghiệm"
+      },
+      {
+        "type": "paragraph",
+        "text": "1. Thách thức"
+      },
+      {
+        "type": "paragraph",
+        "text": "a. Thiếu tương tác, làm việc rời rạc"
+      },
+      {
+        "type": "paragraph",
+        "text": "Thực tế diễn ra: Trong giai đoạn đầu, nhóm gặp tình trạng chia việc xong là mỗi người tự làm phần của mình mà không có sự trao đổi, cập nhật tiến độ với nhau."
+      },
+      {
+        "type": "paragraph",
+        "text": "Hậu quả đối với nhóm: Điều này dẫn đến hiệu quả công việc rất thấp. Khi ghép các phần bài làm lại với nhau, nội dung bị rời rạc, thiếu logic và nhóm phải mất rất nhiều thời gian để sửa chữa lại từ đầu."
+      },
+      {
+        "type": "paragraph",
+        "text": "b. Ngại nêu quan điểm, sợ sai, sợ bị đánh giá"
+      },
+      {
+        "type": "paragraph",
+        "text": "Thực tế diễn ra: Do là sinh viên năm nhất và chưa thực sự hiểu rõ về nhau, nhiều thành viên trong nhóm mang tâm lý ngại ngùng. Các bạn sợ nêu lên quan điểm của mình sẽ bị sai hoặc sợ bị các bạn khác phán xét, đánh giá."
+      },
+      {
+        "type": "paragraph",
+        "text": "Hậu quả đối với nhóm: Trong các buổi họp, thường chỉ có 1-2 thành viên chủ chốt lên tiếng. Nhóm bị thiếu hụt những ý tưởng mới mẻ và mang tính sáng tạo từ tập thể."
+      },
+      {
+        "type": "paragraph",
+        "text": "c. Khó khăn trong việc tìm tiếng nói chung khi có bất đồng"
+      },
+      {
+        "type": "paragraph",
+        "text": "Thực tế diễn ra: Khi thảo luận để chốt ý tưởng, nhóm thi thoảng xuất hiện những quan điểm trái chiều. Tuy nhiên, cách xử lý của nhóm lúc đó chưa tốt: một số bạn chọn cách im lặng, buông xuôi; trong khi số khác lại tranh luận gay gắt, tạo ra không khí căng thẳng."
+      },
+      {
+        "type": "paragraph",
+        "text": "Hậu quả đối với nhóm: Nhóm bị đình trệ công việc vì không thể thống nhất được phương án cuối cùng, đồng thời tinh thần gắn kết của các thành viên cũng bị ảnh hưởng."
+      },
+      {
+        "type": "paragraph",
+        "text": "2. Giải pháp"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sau quá trình làm việc nhóm đã đúc kết được 3 giải pháp chính để khắc phục tình trạng trên"
+      },
+      {
+        "type": "paragraph",
+        "text": "1. Tạo môi trường thoải mái, tôn trọng (Giải quyết tâm lý e ngại)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cách nhóm thực hiện: Nhóm thường xuyên tổ chức các buổi trao đổi nhẹ nhàng, không đặt nặng áp lực đúng/sai. Trưởng nhóm quán triệt tinh thần: Mọi ý tưởng đưa ra đều đáng quý và được tôn trọng."
+      },
+      {
+        "type": "paragraph",
+        "text": "Kết quả đạt được: Các thành viên đã bớt rụt rè, cảm thấy thoải mái hơn khi chia sẻ góc nhìn của bản thân, giúp nội dung bài tập trở nên phong phú hơn."
+      },
+      {
+        "type": "paragraph",
+        "text": "2. Phân công rõ ràng & Bắt buộc lên tiếng (Giải quyết sự rời rạc)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cách nhóm thực hiện: Thay vì giao việc chung chung, nhóm chia nhỏ nhiệm vụ cho từng người kèm theo deadline rõ ràng. Đồng thời, trong mỗi buổi họp tiến độ, nhóm thống nhất nguyên tắc đi một vòng để tất cả các thành viên đều phải đưa ra ý kiến, nhận xét cho phần bài chung."
+      },
+      {
+        "type": "paragraph",
+        "text": "Kết quả đạt được: Không còn tình trạng ỷ lại hay làm việc rời rạc. Mỗi cá nhân đều nắm được vai trò của mình và nắm được bức tranh tổng thể của cả bài báo cáo."
+      },
+      {
+        "type": "paragraph",
+        "text": "3. Thống nhất cách xử lý bất đồng (Giải quyết xung đột)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cách nhóm thực hiện: Nhóm thống nhất nguyên tắc: \"Thảo luận dựa trên lý lẽ, không công kích cá nhân\". Mọi người phải biết lắng nghe ý kiến của người khác trước khi phản biện. Khi bế tắc, nhóm sẽ ngừng tranh cãi, cùng nhìn lại mục tiêu chung của bài tập hoặc xin định hướng từ giảng viên."
+      },
+      {
+        "type": "paragraph",
+        "text": "Kết quả đạt được: Những cuộc thảo luận sau đó diễn ra một cách xây dựng và chuyên nghiệp hơn. Nhóm giải quyết được mâu thuẫn một cách êm đẹp và chốt được các phương án tối ưu nhất cho bài làm."
+      }
+    ],
+    "images": [
+      "/images/lesson4/image5.jpeg",
+      "/images/lesson4/image4.jpeg",
+      "/images/lesson4/image3.png",
+      "/images/lesson4/image6.png",
+      "/images/lesson4/image2.png",
+      "/images/lesson4/image1.jpeg"
+    ]
+  },
+  {
+    "id": 5,
+    "number": "05",
+    "title": "Acne Prevention Infographic AI Workflow",
+    "shortDesc": "Thiết kế Infographic chăm sóc da chuyên sâu sử dụng Gemini tạo nội dung, Leonardo.AI vẽ hình ảnh 3D isometric và Canva AI thiết kế.",
+    "hoverImg": "/jordan.png",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Dự án Infographic:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sử dụng công cụ Google Gemini để tạo văn bản:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Câu lệnh: Hãy đóng vai chuyên gia môi trường, liệt kê 5 thói quen đơn giản giúp giảm mụn viêm, mụn ẩn. Với mỗi thói quen, hãy viết một tiêu đề ngắn gọn và một số liệu thống kê ấn tượng. Sau đó, tóm tắt chúng thành các ý chính để đưa vào bản thiết kế Infographic"
+      },
+      {
+        "type": "paragraph",
+        "text": "Kết quả: Dưới đây là 5 thói quen đơn giản nhưng cực kỳ hiệu quả ddeer giảm mụn viêm, mụn ẩn:"
+      },
+      {
+        "type": "paragraph",
+        "text": "+ Vệ sinh vỏ gối và chăn ga định kỳ"
+      },
+      {
+        "type": "paragraph",
+        "text": "Số liệu: Vỏ gối không giặt trong một tuần chứa lượng vi khuẩn cao gấp 17.000 lần so với bệ ngồi bồn cầu. Đây là ổ vi khuẩn trực tiếp gây viêm da khi bạn ngủ."
+      },
+      {
+        "type": "paragraph",
+        "text": "+ Làm sạch kép (Double Cleansing) mỗi tối"
+      },
+      {
+        "type": "paragraph",
+        "text": "Số liệu: Việc tẩy trang kết hợp sữa rửa mặt giúp loại bỏ tới 95% bụi mịn PM2.5 và dầu thừa tích tụ trong lỗ chân lông – tác nhân chính gây ra mụn ẩn dai dẳng."
+      },
+      {
+        "type": "paragraph",
+        "text": "+ Không đưa tay lên mặt và khử trùng điện thoại"
+      },
+      {
+        "type": "paragraph",
+        "text": "Số liệu: Trung bình một người chạm tay lên mặt 23 lần mỗi giờ. Điện thoại di động lại bẩn hơn 10 lần so với hầu hết các vật dụng trong nhà vệ sinh, dễ dàng lây lan vi khuẩn gây mụn viêm."
+      },
+      {
+        "type": "paragraph",
+        "text": "+ Sử dụng kem chống nắng phổ rộng hàng ngày"
+      },
+      {
+        "type": "paragraph",
+        "text": "Số liệu: Khoảng 80% các vết thâm mụn trở nên tồi tệ hơn và khó lành hơn dưới tác động của tia UV nếu không có màng lọc bảo vệ, do hiện tượng oxy hóa bã nhờn."
+      },
+      {
+        "type": "paragraph",
+        "text": "+ Cấp ẩm đủ và uống nước theo trọng lượng cơ thể"
+      },
+      {
+        "type": "paragraph",
+        "text": "Số liệu: Khi da thiếu nước, tuyến bã nhờn sẽ hoạt động mạnh hơn 20-30% để bù đắp độ ẩm, dẫn đến bít tắc lỗ chân lông và hình thành nhân mụn mới."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nội dung tóm tắt cho bản thiết kế Infographic:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Vệ sinh không gian ngủ: Giặt vỏ gối ít nhất 1 lần/tuần (Vỏ gối bẩn hơn bạn nghĩ!)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Làm sạch chuyên sâu: Tẩy trang + Sữa rửa mặt để quét sạch bụi mịn PM2.5."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nguyên tắc \"Bàn tay sạch\": Tuyệt đối không chạm tay lên mặt; Vệ sinh điện thoại mỗi ngày."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lá chắn UV: Thoa kem chống nắng mỗi sáng để ngăn ngừa thâm viêm."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cân bằng độ ẩm: Uống đủ nước để điều tiết dầu thừa tự nhiên từ bên trong."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sáng tạo hình ảnh minh hoạ với AI hình ảnh ( Midjourney/DALL-E)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Câu lệnh: A high-quality 3D isometric infographic concept about skincare and environment, including clean water, green leaves, a pillow, a sunscreen bottle, and a smartphone. Soft pastel aesthetic, clean white background, cinematic lighting, C4D render, Octane render, 8k, minimal style --ar 16:9 --v 6.0"
+      },
+      {
+        "type": "paragraph",
+        "text": "3 . Sử dụng Canva AI để thiết kế thêm hình ảnh 3D cho bài :"
+      },
+      {
+        "type": "paragraph",
+        "text": "Câu lệnh: A modern 3D isometric infographic concept about clean skincare, including a pure white pillow, a sunscreen tube, a water drop, and green leaves. Minimalist and clean aesthetic, soft pastel colors. Cinematic lighting, C4D render, high detailed, 8k. Clean white background. + 3D isometric icon of a soft and clean white pillow, next to a water drop and green leaves, symbolizing hygiene and freshness. 3D claymorphism style, minimalist. + lose-up 3D isometric render of cleansing foam and water splashes, symbolizing deep cleaning. Blue and white color palette. Professional lighting. + Minimalist 3D isometric icon of a smartphone being cleaned by a glowing blue protective shield, symbolizing germ protection. Modern 3D style. + A stylish 3D isometric sunscreen bottle standing under a transparent protective dome against a sunbeam, symbolizing a UV shield. Pharmaceutical aesthetic, professional render. + A minimalist 3D isometric icon of a large water droplet falling into a balance scale, next to a glass of water, symbolizing drinking enough water and moisture balance."
+      },
+      {
+        "type": "paragraph",
+        "text": "Kết quả:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chi tiết quá trình sử dụng AI:"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Giai đoạn",
+            "Công cụ",
+            "Câu lệnh (prompt)",
+            "Kết quả"
+          ],
+          [
+            "Nội dung",
+            "Google Gemini",
+            "Phân tích 5 thói quen giảm mụn dưới góc độ chuyên gia môi trường & số liệu thống kê.",
+            "Kịch bản chi tiết & tóm tắt ý chính cho Infographic."
+          ],
+          [
+            "2. Hình ảnh minh họa",
+            "Leonardo.AI",
+            "3D isometric icon of a soft white pillow, fresh eucalyptus, water drops, cinematic lighting --ar 16:9",
+            "Ảnh minh họa chất lượng cao, mang tính nghệ thuật và cinematic."
+          ],
+          [
+            "3. Tùy chỉnh 3D",
+            "Canva AI",
+            "A modern 3D isometric infographic concept about clean skincare, soft pastel colors, C4D render.",
+            "Các icon 3D tách nền hoặc phối cảnh 3D để chèn vào bản thiết kế cá nhân."
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "2. Cách chỉnh sửa và Tích hợp đầu ra (Workflow)"
+      },
+      {
+        "type": "paragraph",
+        "text": "AI cung cấp nguyên liệu thô, việc của bạn là \"đầu bếp\" kết nối chúng:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tinh lọc nội dung: Gemini đôi khi đưa ra số liệu chung chung toàn cầu. Tôi đã chỉnh sửa lại để phù hợp với bối cảnh Việt Nam (ví dụ: thay đổi đơn vị tiền tệ hoặc thói quen dùng xe máy)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Xử lý hình ảnh: * Sử dụng công cụ Background Remover trên Canva để tách nền trắng khỏi các icon tạo từ Leonardo.ai."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dùng Magic Edit để đổi màu một vài chi tiết trên icon cho khớp hoàn toàn với bảng màu của Template."
+      },
+      {
+        "type": "paragraph",
+        "text": "Hòa hợp thiết kế: Thay thế các văn bản mặc định của Template bằng nội dung đã chốt từ Gemini. Chỉnh font chữ về Montserrat hoặc Be Vietnam Pro để hỗ trợ tiếng Việt không bị lỗi font."
+      },
+      {
+        "type": "paragraph",
+        "text": "3. So sánh kết quả từ các công cụ AI khác nhau"
+      },
+      {
+        "type": "paragraph",
+        "text": "Qua quá trình thực hiện, đây là những đánh giá khách quan để bạn chọn công cụ phù hợp:"
+      },
+      {
+        "type": "paragraph",
+        "text": "AI Tạo Văn bản"
+      },
+      {
+        "type": "paragraph",
+        "text": "Gemini: Mạnh về cập nhật số liệu thực tế, hiểu ngữ cảnh địa phương tốt."
+      },
+      {
+        "type": "paragraph",
+        "text": "ChatGPT (GPT-4o): Viết lách sáng tạo hơn, các tiêu đề có tính \"giật tít\" cao hơn nhưng đôi khi số liệu không mới bằng Gemini."
+      },
+      {
+        "type": "paragraph",
+        "text": "AI Tạo Hình ảnh"
+      },
+      {
+        "type": "paragraph",
+        "text": "Leonardo.ai: Tốt nhất cho việc tạo Icon/Element. Nó cho phép cố định phong cách (Style Reference) để 5 icon thói quen trông như thuộc về một bộ duy nhất."
+      },
+      {
+        "type": "paragraph",
+        "text": "Microsoft Designer (DALL-E 3): Rất thông minh, hiểu những yêu cầu phức tạp nhưng hình ảnh đôi khi quá \"hoạt hình\", khó tùy chỉnh chuyên sâu như Leonardo."
+      },
+      {
+        "type": "paragraph",
+        "text": "AI Hỗ trợ Thiết kế"
+      },
+      {
+        "type": "paragraph",
+        "text": "Canva AI: Cực kỳ thân thiện với người dùng phổ thông. Thế mạnh là kho mẫu (template) khổng lồ và khả năng kéo thả."
+      },
+      {
+        "type": "paragraph",
+        "text": "Adobe Firefly: Dành cho người có kỹ năng đồ họa cao hơn. Mạnh về việc mở rộng vùng ảnh (Generative Expand) và xử lý vector chuyên nghiệp."
+      },
+      {
+        "type": "paragraph",
+        "text": "Kết luận: Để có một sản phẩm Infographic chất lượng nhất, công thức tối ưu là: Gemini (Nội dung) + Leonardo.ai (Hình ảnh độc bản) + Canva (Lắp ghép thành phẩm)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Báo Cáo Phân Tích: Sự Trỗi Dậy Của AI Và Cuộc Cách Mạng Sáng Tạo Đồ Họa"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sự xuất hiện của AI tạo sinh (Generative AI) không đơn thuần là một công cụ mới; nó là một \"cú sốc\" tái định nghĩa lại bản chất của lao động sáng tạo. Dưới đây là phân tích sâu sắc về sự chuyển dịch này thông qua dự án Infographic \"Cẩm nang xanh\"."
+      },
+      {
+        "type": "paragraph",
+        "text": "1. Vai trò của AI: Điểm mạnh và Những giới hạn mang tính hệ thống"
+      },
+      {
+        "type": "paragraph",
+        "text": "AI làm tốt điều gì? AI đóng vai trò là một \"người thực thi siêu tốc\". Trong dự án này, Gemini có thể xử lý hàng triệu dữ liệu về môi trường để chọn ra 5 con số ấn tượng nhất chỉ trong 3 giây—việc mà một biên tập viên có thể mất cả buổi sáng để tra cứu. Tương tự, Leonardo.ai hay Canva AI giúp xóa bỏ rào cản về kỹ năng hội họa. Bạn không cần biết vẽ 3D để có một icon bóng đèn 3D hoàn hảo. AI đã \"dân chủ hóa\" thiết kế, biến ý tưởng (concept) thành kết quả (output) gần như ngay lập tức."
+      },
+      {
+        "type": "paragraph",
+        "text": "Hạn chế và tính phản biện: Tuy nhiên, AI vẫn mắc kẹt ở mức độ \"tái tổ hợp thông minh\" thay vì \"sáng tạo tự thân\"."
+      },
+      {
+        "type": "paragraph",
+        "text": "Thiếu tư duy phản biện: AI có thể đưa ra số liệu nhưng không biết liệu số liệu đó có phù hợp với văn hóa của người Việt Nam hay không nếu không được định hướng."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sự rập khuôn: Nếu quá phụ thuộc vào AI, các bản thiết kế dễ rơi vào trạng thái \"công nghiệp\" – trông rất đẹp nhưng thiếu linh hồn và sự phá cách mang đậm dấu ấn cá nhân."
+      },
+      {
+        "type": "paragraph",
+        "text": "2. Sự thay đổi trong quy trình sáng tạo: Từ \"Vẽ\" sang \"Điều phối\""
+      },
+      {
+        "type": "paragraph",
+        "text": "Trước đây, quy trình sáng tạo là một đường thẳng: Ý tưởng → Phác thảo → Vẽ chi tiết → Hoàn thiện. Người làm sáng tạo dành 80% thời gian cho khâu thực thi (vẽ, tô màu, sắp xếp bố cục)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Với sự hỗ trợ của AI, quy trình chuyển dịch thành mô hình vòng tròn với trọng tâm là \"Điều phối câu lệnh\" (Prompt Engineering):"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chỉ đạo (Directing): Con người đóng vai trò đạo diễn, ra lệnh cho AI tạo ra các nguyên liệu thô."
+      },
+      {
+        "type": "paragraph",
+        "text": "Giám sát (Curating): Lọc ra kết quả tốt nhất từ hàng chục phương án AI đề xuất."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tích hợp (Integrating): Kết nối các mảnh ghép từ các AI khác nhau để tạo ra một thực thể thống nhất."
+      },
+      {
+        "type": "paragraph",
+        "text": "Thay đổi lớn nhất: Kỹ năng quan trọng nhất không còn là \"biết sử dụng phần mềm\" mà là \"biết đặt câu hỏi đúng\" và \"có gu thẩm mỹ tốt\" để đánh giá kết quả."
+      },
+      {
+        "type": "paragraph",
+        "text": "3. Các vấn đề đạo đức: Ranh giới mong manh"
+      },
+      {
+        "type": "paragraph",
+        "text": "Việc sử dụng AI trong sáng tạo mở ra ba bài toán đạo đức nhức nhối:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bản quyền và Sự minh bạch: Các mô hình như Leonardo hay DALL-E được huấn luyện trên hàng tỷ tác phẩm của các nghệ sĩ thực thụ mà thường không có sự cho phép hay trả phí. Khi chúng ta tạo ra một Infographic \"đẹp như nghệ sĩ vẽ\", liệu chúng ta có đang gián tiếp \"đánh cắp\" phong cách của họ?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sự lười biếng về trí tuệ: Nếu AI làm hết phần khó nhất, liệu khả năng tư duy độc lập của con người có bị thui chột? Sự phụ thuộc vào AI có thể dẫn đến việc tạo ra những nội dung trông có vẻ chuyên nghiệp nhưng rỗng tuếch về giá trị thực tế."
+      },
+      {
+        "type": "paragraph",
+        "text": "Vấn đề tin giả (Hallucination): AI văn bản đôi khi \"tự tin\" đưa ra các con số sai lệch (ảo giác). Trong một dự án về môi trường, một con số sai có thể dẫn đến sự hiểu lầm tai hại cho cộng đồng."
+      },
+      {
+        "type": "paragraph",
+        "text": "Kết luận: AI là một trợ thủ đắc lực nhưng nó chỉ là một chiếc gương phản chiếu trí tuệ của người sử dụng. Vai trò của con người trong kỷ nguyên này không phải là cạnh tranh với AI về tốc độ, mà là dẫn dắt AI bằng đạo đức, cảm xúc và tư duy nhân bản—những thứ mà thuật toán chưa bao giờ thực sự sở hữu."
+      }
+    ],
+    "images": [
+      "/images/lesson5/image5.tiff",
+      "/images/lesson5/image4.tiff",
+      "/images/lesson5/image3.png",
+      "/images/lesson5/image2.tiff",
+      "/images/lesson5/image1.tiff",
+      "/images/lesson5/image6.tiff"
+    ]
+  },
+  {
+    "id": 6,
+    "number": "06",
+    "title": "Compulsory Assignment: Responsible AI Use",
+    "shortDesc": "Phân tích so sánh chính sách liêm chính học thuật của UET/ĐHQGHN với các trường khác và thiết lập quy tắc sử dụng AI cá nhân.",
+    "hoverImg": "/lebron.png",
+    "elements": [
+      {
+        "type": "paragraph",
+        "text": "Trường Đại học Công Nghệ- Đại học Quốc Gia Hà Nội"
+      },
+      {
+        "type": "paragraph",
+        "text": "Môn học: Nhập môn công nghệ số và ứng dụng trí tuệ nhân tạo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Họ và tên: Hoàng Nam"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mã sinh viên: 25020279"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bài tập 4: Sử dụng AI có trách nhiệm trong học tập và nghiên cứu (Bài tập bắt buộc - Tính điểm cuối kì)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mục lục:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mục tiêu và nhiệm vụ học tập"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nghiên cứu chính sách của các trường đại học về sử dụng AI"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mô tả quá trình thực hiện nhiệm vụ với sự hỗ trợ của AI"
+      },
+      {
+        "type": "paragraph",
+        "text": "Phân tích các vấn đề đạo đức liên quan đến sử dụng AI"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bộ nguyên tắc cá nhân về sử dụng AI có trách nhiệm trong học tập"
+      },
+      {
+        "type": "paragraph",
+        "text": "Infographic minh họa: “Sử dụng AI có trách nhiệm trong học thuật”"
+      },
+      {
+        "type": "paragraph",
+        "text": "BÁO CÁO"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mục tiêu và nhiệm vụ học tập"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mục tiêu: Nắm vững quy định về việc ứng dụng công cụ AI trong môi trường học thuật, thực hành các thao tác với AI một cách minh bạch và xây dựng nguyên tắc sử dụng AI chuẩn mực của bản thân."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nhiệm vụ học tập: Chuẩn bị tài liệu và viết dàn ý cho chủ đề: “Nghiên cứu, tìm hiểu Kiến trúc máy tính”."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nghiên cứu chính sách của các trường đại học về sử dụng AI"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chính sách tại Đại học Quốc gia Hà Nội (ĐHQGHN)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Đào tạo bắt buộc và toàn diện: ĐHQGHN áp dụng chính sách số hóa mạnh mẽ từ năm học 2025-2026. Toàn bộ sinh viên (bao gồm khối ngành Y Dược) đều phải học học phần nền tảng về công nghệ số và trí tuệ nhân tạo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mục tiêu của chính sách:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trang bị tư duy công nghệ và kỹ năng sử dụng AI tạo sinh (như Chat GPT, Grok, Claude) từ năm nhất để hỗ trợ học tập, nghiên cứu, và tự cá nhân hóa lộ trình học."
+      },
+      {
+        "type": "paragraph",
+        "text": "Thúc đẩy nghiên cứu khoa học: Đẩy mạnh hợp tác quốc tế và ứng dụng AI trong khám, chữa bệnh (tiêu biểu là thỏa thuận hợp tác bốn bên của Trường Đại học Công nghệ - ĐHQGHN với các đối tác trong và ngoài nước)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quản lý và Liêm chính: Coi AI là công cụ hỗ trợ nâng cao năng lực, đồng thời yêu cầu sinh viên không phụ thuộc quá mức hay vi phạm đạo đức học thuật (như đạo văn, sao chép kết quả không minh bạch)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chính sách tại Trường Đại học Công nghệ - ĐHQGHN (UET)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tập trung vào Liêm chính học thuật và Đánh giá: Trường Đại học Công nghệ - ĐHQGHN có các quy định rõ ràng về liêm chính học thuật đối với người học, nghiên cứu sinh và cán bộ, viên chức."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mục tiêu của chính sách:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Kiểm soát chặt chẽ việc sử dụng các sản phẩm học thuật, sơ đồ, quy trình và thông tin từ bên thứ ba (bao gồm cả các công cụ AI)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Đòi hỏi tính trung thực, cấm các hành vi đạo văn, sử dụng kết quả, ý tưởng của AI mà không trích dẫn nguồn gốc."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quy trình xử lý vi phạm:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trường áp dụng các phần mềm kiểm tra đạo văn và có chế tài xử lý nghiêm ngặt (như yêu cầu sửa lại bài hoặc trừ điểm khi phát hiện các lỗi đạo văn, sử dụng dữ liệu không minh bạch nhiều lần)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Định hướng: Mặc dù khuyến khích ứng dụng công nghệ để nâng cao chất lượng công nghệ, trường nhấn mạnh AI chỉ đóng vai trò hỗ trợ, không được làm thay đổi tính chính xác của dữ liệu chuyên môn và kết quả nghiên cứu."
+      },
+      {
+        "type": "paragraph",
+        "text": "Bảng so sánh tổng quan:"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Tiêu chí so sánh",
+            "ĐHQGHN (bao gồm Trường Đại học Y Dược)",
+            "Trường Đại học Y Hà Nội (HMU)"
+          ],
+          [
+            "Đào tạo kỹ năng AI",
+            "Bắt buộc học phần nhập môn ứng dụng AI cho sinh viên ngay từ năm nhất.",
+            "Khuyến khích ứng dụng trong tự học, nhưng chú trọng kiểm soát chất lượng đầu ra."
+          ],
+          [
+            "Định hướng nghiên cứu",
+            "Đẩy mạnh tích hợp AI vào chẩn đoán lâm sàng và hợp tác phát triển giải pháp Y học số.",
+            "Tập trung vào tiêu chuẩn nghiên cứu khoa học quốc tế và chuẩn mực đạo đức y khoa."
+          ],
+          [
+            "Quy định đạo đức học thuật",
+            "Yêu cầu minh bạch, ghi nhận sự hỗ trợ của công nghệ trong sản phẩm học tập.",
+            "Kiểm soát chặt chẽ việc sao chép từ AI mà không trích dẫn qua phần mềm chống đạo văn."
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Nhận định cá nhân"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tầm quan trọng của kiểm chứng (Fact-check): Trong y khoa, thông tin cần độ chính xác tuyệt đối. Do đó, AI chỉ nên đóng vai trò là “trợ lý học tập” giúp gợi ý cấu trúc, trong khi nội dung chuyên môn phải được người học xác thực qua sách giáo khoa cấu trúc phần cứng chuẩn."
+      },
+      {
+        "type": "paragraph",
+        "text": "3. Mô tả quá trình thực hiện nhiệm vụ với sự hỗ trợ của AI"
+      },
+      {
+        "type": "paragraph",
+        "text": "Các Prompt đã sử dụng"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prompt 1 (Tìm kiếm và hệ thống hóa kiến thức):“Hãy đóng vai là một sinh viên y khoa năm 2, giúp tôi tóm tắt các đặc điểm cấu trúc phần cứng học cơ bản của máy tính (hình thể ngoài, liên quan, và các bờ cong) theo phong cách rõ ràng, mạch lạc.”"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prompt 2 (Ứng dụng lâm sàng và trích dẫn):“Giải thích ứng dụng lâm sàng của bus hệ thống và mạng LAN trong lập trình cắt máy tính, đồng thời đề xuất nguồn tài liệu tham khảo theo chuẩn Harvard.”"
+      },
+      {
+        "type": "paragraph",
+        "text": "Đầu ra của AI"
+      },
+      {
+        "type": "paragraph",
+        "text": "Kết quả 1:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Kết quả 2:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Đánh giá, chỉnh sửa và tích hợp đầu ra"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Nội dung từ AI",
+            "Quá trình đánh giá và chỉnh sửa của sinh viên",
+            "Kết quả hoàn thiện"
+          ],
+          [
+            "Hình thể ngoài",
+            "AI liệt kê chung chung các phần của dạ dày. Cần bổ sung thêm thông tin về tạng di động và đối chiếu mốc giải phẫu.",
+            "Hoàn chỉnh: Xác định dạ dày là tạng di động, vòm vị nằm ngang mức khoang liên sườn 5 bên trái, và trục dạ dày."
+          ],
+          [
+            "Bờ cong dạ dày",
+            "AI nêu tên các bờ cong nhưng chưa làm nổi bật cấu trúc mạch máu nuôi dưỡng.",
+            "Hoàn chỉnh: Bổ sung chi tiết bờ cong nhỏ (chứa mạch vị phải và trái) và bờ cong lớn (gắn các dây chằng vị hoành, vị lách, vị đại tràng)."
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Trích dẫn việc sử dụng AI một cách minh bạch"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hình thức ghi nhận: Đặt ở phần Lời cảm ơn hoặc Phụ lục của bài thuyết trình:\"Nội dung dàn ý và các thuật ngữ cơ bản được hỗ trợ tổng hợp thông qua công cụ AI (Grok), sau đó được hiệu chỉnh, đối chiếu với tài liệu cấu trúc phần cứng học và sinh lý học chuẩn.\""
+      },
+      {
+        "type": "paragraph",
+        "text": "4.  Phân tích các vấn đề đạo đức liên quan đến sử dụng AI"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ranh giới giữa hỗ trợ hợp lý và gian lận học thuật:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Hỗ trợ hợp lý: Sử dụng AI để lập dàn ý thuyết trình, tìm kiếm từ khóa hoặc giải thích các cơ chế phức tạp."
+      },
+      {
+        "type": "paragraph",
+        "text": "Gian lận học thuật: Sao chép nguyên văn định nghĩa bệnh lý từ AI vào bài báo cáo mà không qua quá trình đọc hiểu và kiểm chứng."
+      },
+      {
+        "type": "paragraph",
+        "text": "Vấn đề quyền sở hữu trí tuệ và trích dẫn:"
+      },
+      {
+        "type": "paragraph",
+        "text": "AI tổng hợp dữ liệu từ nhiều nguồn khác nhau trên không gian mạng. Việc không trích dẫn công cụ AI khi sử dụng thông tin từ hệ thống này vi phạm tính trung thực khoa học."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tác động đến quá trình học tập và phát triển kỹ năng:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Việc phụ thuộc hoàn toàn vào AI có thể làm giảm khả năng tư duy lâm sàng và ghi nhớ cấu trúc phần cứng của sinh viên Công nghệ Thông tin. Ngược lại, nếu biết sử dụng đúng cách sẽ giúp tiết kiệm thời gian và mở rộng tư duy đa chiều."
+      },
+      {
+        "type": "paragraph",
+        "text": "5. Bộ nguyên tắc cá nhân về sử dụng AI có trách nhiệm trong học tập"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tính trung thực: Luôn ghi nhận và trích dẫn rõ ràng các phần nội dung có sự hỗ trợ của AI."
+      },
+      {
+        "type": "paragraph",
+        "text": "Kiểm chứng chuyên môn: Không sử dụng thông tin y khoa do AI cung cấp nếu chưa đối chiếu với giáo trình chính thống và ý kiến giảng viên."
+      },
+      {
+        "type": "paragraph",
+        "text": "Bảo mật dữ liệu: Tuyệt đối không nhập thông tin người bệnh hoặc dữ liệu cá nhân vào các công cụ AI."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tôn trọng bản quyền: Trích dẫn nguồn tài liệu tham khảo theo đúng chuẩn quy định (ví dụ: chuẩn Harvard)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Rèn luyện tư duy phản biện: Đặt câu hỏi ngược lại với kết quả của AI để đảm bảo tính logic và chính xác của kiến thức y khoa."
+      },
+      {
+        "type": "paragraph",
+        "text": "6. Infographic minh họa: “Sử dụng AI có trách nhiệm trong học thuật”"
+      }
+    ],
+    "images": [
+      "/images/lesson6/image5.png",
+      "/images/lesson6/image4.png",
+      "/images/lesson6/image3.png",
+      "/images/lesson6/image2.png",
+      "/images/lesson6/image1.png"
+    ]
+  }
+]
