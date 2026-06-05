@@ -354,6 +354,60 @@ function renderApp() {
           `).join('')}
         </div>
       </section>
+
+      <!-- TỔNG KẾT VÀ ĐÁNH GIÁ BẢN THÂN -->
+      <section class="reflection-sec" style="background: var(--bg-card); padding: 80px 0; border-top: 1px solid var(--border-light);">
+        <div style="max-width: 1200px; margin: 0 auto; padding: 0 20px;">
+          <div class="sec-header">
+            <h2 class="display-title sec-title">TỔNG KẾT & ĐÁNH GIÁ</h2>
+            <div class="sec-subtitle">Nhìn nhận bản thân và lộ trình phát triển chuyên môn học thuật</div>
+          </div>
+          
+          <div class="reflection-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin-top: 40px;">
+            <div class="reflection-col card-inner" style="background: rgba(255,102,0,0.02); border: 1.5px solid var(--border-light); padding: 30px; border-radius: 8px;">
+              <h3 style="font-size: 1.35rem; color: var(--text-orange); margin-bottom: 20px; font-weight: 700; border-bottom: 2px solid var(--text-orange); padding-bottom: 8px;">
+                ĐÁNH GIÁ BẢN THÂN
+              </h3>
+              <p style="margin-bottom: 15px; font-weight: 600; font-style: italic;">
+                "Xuyên suốt dự án, tôi đã chuyển dịch mạnh mẽ từ một người sử dụng công nghệ thụ động sang vai trò 'người điều phối' linh hoạt và có trách nhiệm. Cụ thể:"
+              </p>
+              <ul style="list-style: none; display: flex; flex-direction: column; gap: 12px; padding: 0;">
+                <li style="display: flex; gap: 8px; align-items: flex-start;">
+                  <span style="color: var(--text-orange); font-weight: bold;">•</span>
+                  <span>Chuyển đổi tư duy làm việc (Kết hợp làm việc nhóm)</span>
+                </li>
+                <li style="display: flex; gap: 8px; align-items: flex-start;">
+                  <span style="color: var(--text-orange); font-weight: bold;">•</span>
+                  <span>Làm chủ công nghệ AI ( không phụ thuộc)</span>
+                </li>
+                <li style="display: flex; gap: 8px; align-items: flex-start;">
+                  <span style="color: var(--text-orange); font-weight: bold;">•</span>
+                  <span>Nâng tầm tư duy phản biện & Liêm chính học thuật( xây dựng nguyên tắc rõ ràng của bản thân)</span>
+                </li>
+              </ul>
+            </div>
+
+            <div class="reflection-col card-inner" style="background: rgba(255,102,0,0.02); border: 1.5px solid var(--border-light); padding: 30px; border-radius: 8px;">
+              <h3 style="font-size: 1.35rem; color: var(--text-orange); margin-bottom: 20px; font-weight: 700; border-bottom: 2px solid var(--text-orange); padding-bottom: 8px;">
+                LỘ TRÌNH PHÁT TRIỂN
+              </h3>
+              <p style="margin-bottom: 15px; font-weight: 600; font-style: italic;">
+                "Ngoài ra tôi còn tích hợp trực tiếp vào lộ trình phát triển chuyên môn sắp tới:"
+              </p>
+              <ul style="list-style: none; display: flex; flex-direction: column; gap: 12px; padding: 0;">
+                <li style="display: flex; gap: 8px; align-items: flex-start;">
+                  <span style="color: var(--text-orange); font-weight: bold;">•</span>
+                  <span>Tối ưu hóa học tập và nghiên cứu chuyên sâu (kĩ năng viết promt nâng cao)</span>
+                </li>
+                <li style="display: flex; gap: 8px; align-items: flex-start;">
+                  <span style="color: var(--text-orange); font-weight: bold;">•</span>
+                  <span>Thúc đẩy quy trình phát triển phần mềm: (Áp dụng tư duy quản trị dự án trực quan (Trello) và tổ chức dữ liệu đám mây vào quá trình phối hợp thiết kế kiến trúc hệ thống, xây dựng các ứng dụng Client-Server hoặc triển khai mã nguồn đa luồng, đảm bảo tính đồng bộ và hiệu suất cao)</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
     </main>
 
     <footer>
