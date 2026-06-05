@@ -15,7 +15,7 @@
   --court-dark: #1e1e24;         /* Charcoal/Black */
   --border-light: rgba(13, 13, 17, 0.08);
   
-  --font-display: 'Syne', 'Barlow Condensed', sans-serif;
+  --font-display: 'Barlow Condensed', sans-serif;
   --font-body: 'Be Vietnam Pro', sans-serif;
   --font-serif: 'Playfair Display', serif;
 }
@@ -1216,4 +1216,96 @@ footer {
   pointer-events: none;
   filter: url(#brushed-metal-filter);
 }
+
+/* ──────── PRINTING & PDF EXPORT ──────── */
+@media print {
+  /* Hide all elements on page */
+  body * {
+    visibility: hidden;
+  }
+
+  /* Target active overlay panel content only */
+  .overlay-panel,
+  .overlay-panel * {
+    visibility: visible;
+  }
+
+  /* Reset overlay panel size and position for print */
+  .overlay-panel {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100% !important;
+    max-width: 100% !important;
+    height: auto !important;
+    padding: 10px !important;
+    margin: 0 !important;
+    background: #ffffff !important;
+    color: #111111 !important;
+    box-shadow: none !important;
+    border: none !important;
+    overflow: visible !important;
+  }
+
+  /* Title styling on print */
+  .overlay-title {
+    color: #111111 !important;
+    font-size: 2rem !important;
+    margin-bottom: 20px !important;
+    font-family: var(--font-display) !important;
+    text-transform: uppercase !important;
+  }
+
+  /* Prompt boxes styling on print */
+  .prompt-box {
+    border: 1.5px solid #111111 !important;
+    background: #fbfbfb !important;
+    color: #111111 !important;
+    padding: 10px !important;
+    margin: 10px 0 !important;
+    font-family: monospace !important;
+    page-break-inside: avoid !important;
+  }
+
+  /* Table styling */
+  table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    border: 1.5px solid #111111 !important;
+    margin: 20px 0 !important;
+  }
+
+  th, td {
+    border: 1px solid #111111 !important;
+    padding: 0.5rem !important;
+    color: #111111 !important;
+    background: #ffffff !important;
+  }
+
+  /* Hide print buttons and closing button */
+  .no-print, .close-btn {
+    display: none !important;
+  }
+
+  /* Grid of evidence in print */
+  .modal-images-grid {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important; /* Force 2 columns on paper */
+    gap: 1.5rem !important;
+    page-break-inside: avoid !important;
+  }
+
+  .modal-img-card {
+    page-break-inside: avoid !important;
+    box-shadow: none !important;
+    border: 1px solid #111111 !important;
+    background: #ffffff !important;
+  }
+
+  img {
+    max-height: 200px !important;
+    object-fit: contain !important;
+  }
+}
+
 

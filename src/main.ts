@@ -147,9 +147,15 @@ function formatLessonHTML(lesson: Lesson): string {
   }
 
   return `
-    <div class="overlay-meta">Bài tập ${lesson.number}</div>
+    <div class="overlay-meta-row no-print" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
+      <div class="overlay-meta" style="margin-bottom: 0;">Bài tập ${lesson.number}</div>
+      <button onclick="window.print()" class="print-pdf-btn" style="background: var(--accent-orange); color: #ffffff; border: none; padding: 6px 12px; font-family: var(--font-display); font-size: 0.9rem; font-weight: 700; border-radius: 4px; cursor: pointer; display: flex; align-items: center; gap: 6px; box-shadow: 3px 3px 0 var(--court-dark); border: 1.5px solid var(--court-dark); transition: transform 0.1s;">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9V2h12v7M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><path d="M6 14h12v8H6z"/></svg>
+        XUẤT PDF
+      </button>
+    </div>
     <h2 class="overlay-title">${lesson.title}</h2>
-    <div class="overlay-content">
+    <div class="overlay-content print-report-container">
       ${contentHTML}
     </div>
   `;
